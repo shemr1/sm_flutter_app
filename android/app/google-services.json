@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "63433885516",
+    "firebase_url": "https://idmaps-51fe8.firebaseio.com",
+    "project_id": "idmaps-51fe8",
+    "storage_bucket": "idmaps-51fe8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63433885516:android:8e1d3132b7a620c4b971e9",
+        "android_client_info": {
+          "package_name": "com.idmapsintl.sm_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63433885516-p1s1vkccif36vf5o154jbi62om8a17d5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJAOu1ppCxOIgmgZjPZp97QLrPIFg2Grk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63433885516-p1s1vkccif36vf5o154jbi62om8a17d5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
