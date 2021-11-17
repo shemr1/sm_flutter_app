@@ -152,7 +152,7 @@ class _State extends State<LoginPage> {
             );
           });
     });
-
+// may throw error if device is new
     getRoleChoice(firebaseUser.uid, context);
   }
 
